@@ -4,7 +4,7 @@
 *.pyc
 __pycache__
 db.sqlite3
-media
+#media
 
 # Backup files #
 *.bak
@@ -101,3 +101,12 @@ Control.ca-bundle
 Control.system-ca-bundle
 GitHub.sublime-settings
 
+.idea/codeStyles/
+.idea/dbnavigator.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/myshop.iml
+.idea/vcs.xml
+cart/migrations/__init__.py
+shop/static/js/
+templates/
